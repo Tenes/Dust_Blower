@@ -1,0 +1,10 @@
+C:\Users\Enzo\Documents\Visual Studio 2015\Projects\Particles\Particles\bin\DesktopGL\x86\Debug\Content\Dot.xnb
+C:\Users\Enzo\Documents\Visual Studio 2015\Projects\Particles\Particles\bin\DesktopGL\x86\Debug\OpenTK.dll.config
+C:\Users\Enzo\Documents\Visual Studio 2015\Projects\Particles\Particles\bin\DesktopGL\x86\Debug\Particles.exe
+C:\Users\Enzo\Documents\Visual Studio 2015\Projects\Particles\Particles\bin\DesktopGL\x86\Debug\Particles.pdb
+C:\Users\Enzo\Documents\Visual Studio 2015\Projects\Particles\Particles\bin\DesktopGL\x86\Debug\MonoGame.Framework.dll
+C:\Users\Enzo\Documents\Visual Studio 2015\Projects\Particles\Particles\bin\DesktopGL\x86\Debug\NVorbis.dll
+C:\Users\Enzo\Documents\Visual Studio 2015\Projects\Particles\Particles\bin\DesktopGL\x86\Debug\OpenTK.dll
+C:\Users\Enzo\Documents\Visual Studio 2015\Projects\Particles\Particles\obj\x86\Debug\Particles.csprojResolveAssemblyReference.cache
+C:\Users\Enzo\Documents\Visual Studio 2015\Projects\Particles\Particles\obj\x86\Debug\Particles.exe
+C:\Users\Enzo\Documents\Visual Studio 2015\Projects\Particles\Particles\obj\x86\Debug\Particles.pdb
